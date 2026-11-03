@@ -1,6 +1,3 @@
-# README for sms-react (plain React)
-
-```md
 # Student Management System (React)
 
 A student management app built in stages with React, Vite and a small json-server API. It was built as the Week 5 assignment of the Hiruy Full-Stack Bootcamp.
@@ -104,4 +101,4 @@ db.json           the data served by json-server
 
 ## Author
 Mihret Dula, [@MihretM21](https://github.com/MihretM21)
-```
+
